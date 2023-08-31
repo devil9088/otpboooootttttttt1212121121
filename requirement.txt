@@ -1,0 +1,5 @@
+pip install python-telegram-bot==13.7
+pip install vonage
+pip install telnyx
+pip install datetime
+pip install logging
